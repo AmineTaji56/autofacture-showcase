@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.db
+*.log
+node_modules/
+vendor/
+.venv/
+__pycache__/
